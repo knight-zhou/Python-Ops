@@ -4,5 +4,5 @@
 
 ##### 欢迎关注技术公众号： devops9
 
-![](https://img-blog.csdnimg.cn/20200702140305260.jpg)
+![](img/gzh.jpg)
 
